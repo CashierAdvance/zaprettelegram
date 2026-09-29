@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# CashierAdvance/zaprettelegram 528d725da8e1
